@@ -175,6 +175,7 @@ void undo();   //悔棋
 ### 代码仓库
 ---
 #### 初版
+
 [总仓库]（https://github.com/huoguocat/catcat）
 
 [第一阶段]（https://github.com/huoguocat/HUOGUO_CATCAT_Surakarta）
@@ -195,6 +196,7 @@ void undo();   //悔棋
 
 
 #### 最终版本
+
 [总仓库](https://github.com/guzhangtong/Surakarta_final)  
 
 [第一阶段规则判断]（https://github.com/guzhangtong/Surakarta_final/tree/main/stage1）
