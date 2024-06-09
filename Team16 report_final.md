@@ -156,7 +156,7 @@ void undo();   //悔棋
 
 **报告撰写**
 
-除了联网框架报告、第四阶段报告、部分分工报告由【顾张彤2023202299】撰写外，其余报告均由【秦禛涵2023202271】撰写。
+除了联网框架报告、第四阶段报告、部分分工报告、仓库地址由【顾张彤2023202299】撰写外，其余报告均由【秦禛涵2023202271】撰写。
 
 **一些状况**
 
@@ -192,7 +192,8 @@ void undo();   //悔棋
 [第三阶段服务端源码]（https://github.com/huoguocat/catcat/tree/main/Surakarta_server_source）
 
 [第三阶段服务端打包exe]（https://github.com/huoguocat/catcat/tree/main/Server_Team_16/Server_Team_16）
----
+
+
 #### 最终版本
 [总仓库](https://github.com/guzhangtong/Surakarta_final)  
 
